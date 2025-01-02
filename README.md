@@ -1,4 +1,4 @@
-# 👋 Halo, saya @fakhriafif14!  
+# 👋 Halo, saya @fakhriafif
 
 👀 **Minat:**  
 - Bersemangat dalam bidang IT dan elektronika.  
@@ -16,10 +16,8 @@
 - Konten edukasi bagi calon teknisi dan pengembang.  
 
 📫 **Cara Menghubungi Saya:**  
-- **Email:** fakhriafif14@example.com  
-- **LinkedIn:** [linkedin.com/in/fakhriafif14](https://linkedin.com/in/fakhriafif14)  
-
-😄 **Kata Ganti:** Dia (Pria)  
+- **Email:** fakhriafif788@gmail.com  
+- **LinkedIn:** [linkedin.com/in/fakhriafif14](https://linkedin.com/in/fakhriafif14)   
 
 ⚡ **Fakta Menarik:**  
 Saya percaya setiap perangkat memiliki ceritanya sendiri, dan saya senang menghidupkannya kembali! Ketika tidak sedang memperbaiki perangkat, saya sering mengajar anak-anak dasar-dasar elektronika atau mengeksplorasi teknologi otomotif terbaru.  
