@@ -1,4 +1,4 @@
-# 👋 Halo, saya @fakhriafif
+# 👋 Halo, Saya FAKHRI AFIF
 
 👀 **Minat:**  
 - Bersemangat dalam bidang IT dan elektronika.  
