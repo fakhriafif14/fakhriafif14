@@ -1,5 +1,6 @@
 # 👋 Halo, saya Fakhri Afif 
 
+
 👨‍💻 **Tentang Saya:**  
 Saya adalah seorang profesional di bidang **IT dan elektronika** dengan keahlian khusus dalam diagnostik dan perbaikan perangkat keras seperti **smartphone** dan **laptop**. Berpengalaman dalam memecahkan masalah teknis, saya selalu berusaha memberikan solusi terbaik untuk memastikan perangkat kembali berfungsi optimal.  
 
