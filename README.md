@@ -31,7 +31,7 @@ I enjoy writing lines of code and building intuitive UI/UX designs. My curiosity
 
 📫 **Contact me**  
 - **Email:** fakhriafif788@gmail.com  
-- **LinkedIn:** [linkedin.com/in/fakhriafif14](https://www.linkedin.com/in/fakhri-afif-084a6a260/)
+- **LinkedIn:** (https://www.linkedin.com/in/fakhri-afif-084a6a260/)
   
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=00008B&height=150&section=footer&text=&fontColor=000000)
 
