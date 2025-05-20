@@ -1,7 +1,7 @@
 
 <img align="left" src=/owl.png>
-
-# 👋 Hi, I'm fakhri afif
+<b>Welcome to Fakhri afif profile!</b> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px"></h2>
+</p>
 
 I'm a **Freelance UI/UX Designer** and currently a student at **Pelita Bangsa University**.  
 I’m passionate about designing clean, user-friendly interfaces and turning ideas into digital experiences.
