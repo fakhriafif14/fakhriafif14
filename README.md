@@ -5,7 +5,7 @@
 
 I'm a **Freelance UI/UX Designer** and currently a student at **Pelita Bangsa University**.  
 I’m passionate about designing clean, user-friendly interfaces and turning ideas into digital experiences.
-
+<h1 align="right">𖤐</h1>
 ---
 
 ## 💻 What I'm Learning
