@@ -34,12 +34,10 @@ I enjoy writing lines of code and building intuitive UI/UX designs. My curiosity
 <div> 
   <a href="https://www.instagram.com/fakhriafif14/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:FAKHRIAFIF788@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "www.linkedin.com/in/fakhri-afif-084a6a260"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:fakhriafif788@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://www.linkedin.com/in/fakhri-afif-084a6a260/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-- **Email:** fakhriafif788@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/fakhri-afif-084a6a260/
+ 
   
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=00008B&height=150&section=footer&text=&fontColor=000000)
 
