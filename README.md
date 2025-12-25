@@ -1,7 +1,6 @@
 
 <img align="left" src=/owl.png>
-<h2> Hi, I'm FAKHRI AFIF! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px"></h2>
+<h2> Hi, I'm FAKHRI AFIF! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 </p>
 
 I'm a **Freelance UI/UX Designer** and currently a student at **Pelita Bangsa University**.  
