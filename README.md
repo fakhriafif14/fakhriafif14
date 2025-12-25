@@ -7,14 +7,6 @@
 I'm a **Freelance UI/UX Designer** and currently a student at **Pelita Bangsa University**.  
 I’m passionate about designing clean, user-friendly interfaces and turning ideas into digital experiences.
 <h1 align="right">𖤐</h1>
----
-
-## 💻 What I'm Learning
-- 🌐 Web Server Development  
-- 🤖 Android Development using Android Studio
-
-## 🧠 About Me
-I enjoy writing lines of code and building intuitive UI/UX designs. My curiosity drives me to continuously learn new tools and improve my problem-solving skills through user-centered design approaches.
 
 <br><h3 align="left">Languages and Tools :</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
